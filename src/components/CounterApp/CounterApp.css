@@ -1,0 +1,16 @@
+
+.my-Counter-app{
+   
+    margin: 20px 0 20px 0;
+    padding: 10px;
+   
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+.popup{
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 20px;
+    text-align: center;
+   
+
+}

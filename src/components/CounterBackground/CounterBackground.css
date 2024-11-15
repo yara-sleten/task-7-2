@@ -1,0 +1,11 @@
+.btn-color{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px 10px 10px 0;
+    background-color: white;
+}
+.my-counter-back{
+    padding: 10px;
+}
